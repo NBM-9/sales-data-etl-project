@@ -1,0 +1,4 @@
+OrderID,Date,Customer,Product,Quantity,Price,Region,Total_Sales
+1002,2024-01-12,Bob,Samsung S22,2,799,Texas,1598
+1003,2024-01-13,Carol,Pixel 7,3,699,New York,2097
+1004,2024-01-15,Dave,iPhone 13,2,899,Texas,1798
