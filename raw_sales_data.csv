@@ -1,0 +1,6 @@
+OrderID,Date,Customer,Product,Quantity,Price,Region
+1001,2024-01-10,Alice,iPhone 14,1,999,California
+1002,2024-01-12,Bob,Samsung S22,2,799,Texas
+1003,2024-01-13,Carol,Pixel 7,3,699,New York
+1004,2024-01-15,Dave,iPhone 13,2,899,Texas
+1005,2024-01-16,Eva,Samsung S21,1,749,Florida
